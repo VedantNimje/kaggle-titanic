@@ -1,4 +1,4 @@
-# kaggle__titanic
+# kaggle-titanic
 
 ![1xx](https://github.com/VedantNimje/kaggle__titanic/assets/143213138/c8332cf0-631c-471e-8bbf-8d18857584fd)
 ![2xx](https://github.com/VedantNimje/kaggle__titanic/assets/143213138/cfa275f3-e782-40d6-afc7-bcfb55fb1919)
